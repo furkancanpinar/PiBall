@@ -1,0 +1,38 @@
+PiBall
+Hi there, this is the creator of PiBall, I hope you will enjoy the game when you are playing it. 
+You could move the paddles with left and right arrow key
+I want to ask a favor from you... PiBall is in the development stage and you could help me improve the game by giving a feedback.
+If possible can you comment on:
+	-Paddle and Ball collision
+	-Canvas and Ball collision
+	-Obstacles and Ball collision
+	-Spring and Ball collision(Removed from the game at the moment)
+	-Usability of buttons
+	-End Screen which appears when you fail
+	-The keyboard combination
+Thanks a lot for your time, if you can send me an email with the following comments you will play a really big in the improvement of the game
+Enjoy the Game
+Contact: Furkancanpinar0@gmail.com
+
+
+If possible can you comment on:
+-Paddle and Ball collision
+-Canvas and Ball collision
+-Obstacles and Ball collision
+-Spring and Ball collision(Removed from the game at the moment)
+-Usability of buttons
+-End Screen which appears when you fail
+-The keyboard combination
+
+Hi there I have tested the game and I will try to give you some feedback.
+1- The game detects the collision between the ball and the paddles well so I think rather than trying to improve this aspect of your game I would recommend you to work on the other aspects like finishing the game and the aesthetics of the game.  The only thing I would want you to improve in the collision with the paddle would be the direction the ball goes when it hits the paddle.
+2-Canvas and the ball collide well I have played python games before it was made using pygame but the moving objects were going out of the annoying user interface so I would say leave this as well because it is working
+3- The obstacles are very cool, they change color when the ball bounces off them so I like this feature. ButI think you should change the color of the obstacles and add a lot of them like 8-10 obstacles because it might look cooler the user interface looks empty so fill it in with obstacles and colour code, or change the obstacles.
+4- I dont really know what you mean by the spring 
+5- I was abled to test out only one button you used plural but the restart button which I was using was working well, if there are other buttons like, pause, unpause, settings, scoreboard it could be bettter
+6- I would say the end screen which appears when the game ends is very cool it tells you the score and then it makes another screen appears, I would say move on to the aesthetics of the game now these features you have included in the game are very good, could be improved but i assume your game is in its early stages.
+7- The keyboard is working very well with the game and there are no bugs it works just fine and i think 2 buttons would be enough so I think you should not add any more buttons.
+
+
+
+I hope you are doing well man, keep up the hard work I think your game will be better than this stage even though it looks decent at the moment. 
