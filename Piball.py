@@ -12,7 +12,7 @@ master = Tk()
 master.title('Piball v0.5')
 master.geometry('700x1000')
 master.resizable(False, False)
-master.iconbitmap("galaxy.ico")
+##master.iconbitmap("galaxy.ico")"
 master.config(bg="black")
 gravity = 0.25
 #Canvas around the main screen
@@ -216,8 +216,8 @@ boink = pygame.mixer.Sound("boink.mp3")
 teleporting = pygame.mixer.Sound("Transporting.mp3")
 Hop = pygame.mixer.Sound("Stretch.mp3")
 cartoon = pygame.mixer.Sound("Cartoon.mp3")
-Music = pygame.mixer.music.load("BG.mp3")
-pygame.mixer.music.play(-1)
+#Music = pygame.mixer.music.load("BG.mp3")
+#pygame.mixer.music.play(-1)
 
 
 
